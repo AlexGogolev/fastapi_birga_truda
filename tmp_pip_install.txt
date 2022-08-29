@@ -3,3 +3,4 @@
 # +++ pip install psycopg2-binary
 
 
+c 20 мин смотреть про docker - пока непонятно
